@@ -164,4 +164,6 @@ Send them to Ben Marwick at `bmarwick@uw.edu`
 
 - Matthew Harris `matthew.d.harris@aecom.com`
 
+- Sophie C. Schmidt `s.c.schmidt@uni-koeln.de`
+
 - You! Please make a pull request to add your name!
