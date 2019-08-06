@@ -1,6 +1,6 @@
 This is the [OSIG](https://osf.io/2dfhz/wiki/home/) project for issuing [Center for Open Science](https://centerforopenscience.org/) badges for Open Data and Open Materials for display on conference presentations and poster 
 
-The aim of the project is to recognise archaeologists' efforts to improve scholarly communication in archaeology by making their data, code and other research product openly available. 
+The aim of the project is to recognise archaeologists' efforts to improve scholarly communication in archaeology by making their data, code and other research products openly available. 
 
 <img align="right" src="badges_stacked.original.png">
 
