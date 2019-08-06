@@ -160,4 +160,6 @@ Send them to Ben Marwick at `bmarwick@uw.edu`
 
 ### Editorial Board for the OSIG Badges Project
 
+- Matthew Harris `matthew.d.harris@aecom.com`
+
 - You! Please make a pull request to add your name!
