@@ -6,7 +6,7 @@ The aim of the project is to recognise archaeologists' efforts to improve schola
 
 ## What are these badges?
 
-A badge is a small icon that you display on your conference poster, on your presentation slides, or your paper preprint to communicate that your data (e.g. spreadsheets) and materials (e.g. programming code) are openly available for anyone to access. When you give a talk or present a poster at a conference or meeting, you can point to the badges and tell the audience that your data and materials are openly available.
+A badge is a small icon that you display on your conference poster, on your presentation slides, or your paper preprint to communicate that your data (e.g. spreadsheets) and materials (e.g. programming code, step-by-step instructions of the data analysis) are openly available for anyone to access. When you give a talk or present a poster at a conference or meeting, you can point to the badges and tell the audience that your data and materials are openly available.
 
 We have one badge to signify open data, and another for open materials. There are circumstances when data sharing is not possible, for example, sharing some human participant data could violate confidentiality. In those cases, the work may still be eligible for the open materials badge, if the analysis code, etc. are openly available. 
 
@@ -19,7 +19,7 @@ Signalling that you value openness will help to shift the expected norms of beha
 ## How do I get a badge? 
 
 1. Prepare your poster/slides/paper as you usually do, but making sure that your text includes a **disclosure statement** ([what is this?](#disclosure_statement)) about your code and/or data ([where to archive the code/data?](#Where_can_I_archive_my_data_and_materials?)).
-2. **Email** a PDF of your poster/slides/paper, or a URL to it, to `bmarwick@uw.edu`, **upload** it to a new issue on our [submissions](https://github.com/saa-osig/badges-for-open-practices/issues/new) repository , or **share the URL** of your file with us in a new issues on our [submissions](https://github.com/saa-osig/badges-for-open-practices/issues/new) page.
+2. **Email** a PDF of your poster/slides/paper, or a URL to it, to `bmarwick@uw.edu`, **upload** it to a new issue on our [submissions](https://github.com/saa-osig/badges-for-open-practices/issues/new) page , or **share the URL** of your file with us in a new issues on our [submissions](https://github.com/saa-osig/badges-for-open-practices/issues/new) page.
 3. The editor will assign **two reviewers** to your submission. They will use the COS' [disclosure](https://osf.io/tvyxz/wiki/2.%20Awarding%20Badges/) review process, This means that they only confirm that the provided link(s) in the poster/slides/paper lead to the data and/or materials on a public, open access repository, and that the linked materials are related to the report. The reviewers will not attempt to run your code or reproduce your results. 
 4. The **reviews will be published anonymously** on a GitHub repository dedicated to your submission. If they both recommend that the badge(s) be awarded, then the editor will create a persistent, public archive from the repository that contains your submitted poster/slides/paper and its reviews. If the reviews recommend revisions,  you may submit a revised copy, if you wish.
 5. You will **receive a badge image file to add to your poster/slides/paper**. Your badge will include a DOI that links to the archive that contains the evidence of your badge review, and optionally, a QR code that links to the DOI. This means that your badge is unique to the specific item that you submitted for review. You then add the badge image to your poster/slides/paper, and present or submit it as usual. You may make minor changes to your poster/slides/paper after you receive the badge, but you cannot remove the disclosure statement.
@@ -30,12 +30,12 @@ To qualify for the badges, your poster/slides/paper must include a **disclosure 
 
 For the Open Data badge:
 
-1. Provide the URL, DOI, or other permanent path for accessing the data in a public, open access repository.
-2. State whether or not there are sufficient information accompanying your data for an independent researcher to reproduce the reported results? If no, explain.
+1. Provide the URL, DOI, or other permanent path for accessing the data in a public, open access repository. See below for more details if you have data that cannot be shared in public.
+2. State whether or not there are sufficient information accompanying your data for an independent researcher to reproduce the reported results? If no, explain very breifly why. 
 
 For the Open Materials badge:
 
-1. Provide the URL, DOI, or other permanent path for accessing the materials (e.g. code files, details of reagents, equipment, biological materials) in a public, open access repository.
+1. Provide the URL, DOI, or other permanent path for accessing the materials (e.g. description of your methods, code files, details of reagents, equipment, biological materials) in a public, open access repository.
 2. State whether or not there are sufficient information for an independent researcher to reproduce the reported methodology? If no, explain.
 
 Here is an example of a typical simple disclosure statement:
@@ -52,7 +52,7 @@ There are three criteria for your data to count as **open data**:
 
 Similarly, there are three criteria for your materials to count as **open materials**:
 
-1. Digitally-shareable materials are publicly available on an open-access repository. The materials must have a persistent identifier and be provided in a format that is time-stamped, immutable, and permanent (e.g., files in a [university repository](https://researchworks.lib.washington.edu/index.html), on the Open Science Framework, or an independent repository listed listed at [*Nature*](http://www.nature.com/sdata/policies/repositories) or [re3data](http://www.re3data.org)
+1. Digitally-shareable materials (these might include, and are not limited to: a narrative description of your methods, spreadsheets with formulas, scripts of R, Python or other programming languages, etc.) are publicly available on an open-access repository. The materials must have a persistent identifier and be provided in a format that is time-stamped, immutable, and permanent (e.g., files in a [university repository](https://researchworks.lib.washington.edu/index.html), on the Open Science Framework, or an independent repository listed listed at [*Nature*](http://www.nature.com/sdata/policies/repositories) or [re3data](http://www.re3data.org)
 2. Infrastructure, equipment, biological materials, or other components that cannot be shared digitally are described in sufficient detail for an independent researcher to understand how to reproduce the procedure.
 3. Sufficient explanation for an independent researcher to understand how the materials relate to the reported methodology.
 
