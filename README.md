@@ -56,6 +56,12 @@ Similarly, there are three criteria for your materials to count as **open materi
 2. Infrastructure, equipment, biological materials, or other components that cannot be shared digitally are described in sufficient detail for an independent researcher to understand how to reproduce the procedure.
 3. Sufficient explanation for an independent researcher to understand how the materials relate to the reported methodology.
 
+## What if I have data that cannot be shared in public, can I still get a badge?
+
+We recognise that archaeologists often work with data that, for many reasons, cannot be shared in public. For example, most data collected during CRM work cannot be made public, and sometimes our indigenous collaborators require that archaeological data not be shared. If you work with these kinds of data, and want to apply for a badge, we can use the OSF's "PA" (Protected Access) notation. From the [OSF documentation](https://osf.io/tvyxz/wiki/8.%20Approved%20Protected%20Access%20Repositories/): 
+
+> This notation may be added to open data badges if sensitive, personal data are available only from an approved third party repository that manages access to data to qualified researchers through a documented process. To be eligible for an open data badge with such a notation, the repository must publicly describe the steps necessary to obtain the data and detailed data documentation (e.g. variable names and allowed values) must be made available publicly. This notation is not available to researchers who state that they will make “data available upon request” and is not available if requests for data sharing are evaluated on any criteria beyond considerations for compliance with proper handling of sensitive data. For example, this notation is not available if limitations are placed on the permitted use of the data, such as for data that are only made available for the purposes of replicating previously published results or for which there is substantive review of analytical results. Review of results to avoid disclosure of confidential information is permissible.
+
 ## Who can submit?
 
 Currently we provide this service to all archaeologists. Submissions are welcome for any conference presentation, you do not need to have any connection with the Society of American Archaeology. Submissions from researchers in other fields will be considered on a case-by-case basis. 
